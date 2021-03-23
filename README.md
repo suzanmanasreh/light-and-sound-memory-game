@@ -7,6 +7,7 @@ Submitted by: **Suzan Manasreh**
 Time spent: **4** hours spent in total
 
 Link to project: https://glitch.com/edit/#!/simon-says-memory-game?path=README.md%3A1%3A0
+GIF: https://media.giphy.com/media/aDxEMb2UFLgAcwIGOi/giphy.gif
 
 ## Required Functionality
 
